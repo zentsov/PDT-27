@@ -1,3 +1,6 @@
 # PDT-27
 
-This is my first project
+Project:
+
+Testing some features in web-server app
+Using TestNG library
